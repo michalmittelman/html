@@ -1,0 +1,31 @@
+body {
+    background-image:url('bck2.jpg');
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-size: cover ; 
+	 
+		} 
+		
+div.polaroid {
+  width: 30%;
+  background-color: white;
+  background-size: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}		 
+
+
+div.container {
+	
+  font-family: Guttman Yad-Brush ;
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 25;
+}
+
+.koteret {
+  font-family: Gabriola;
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 25;
+}
